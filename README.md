@@ -1,2 +1,2 @@
-# Azure PaaS Workshop
-Materials for Introduction to Azure PaaS Workshop
+# Azure Workshop
+Materials for Introduction to Azure Workshop
